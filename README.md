@@ -11,7 +11,6 @@ This Data analysis aims to generate insight into the sale performance of the E c
 The primary source of Data used here is Data Sale.csv and this is an open source data that can be freely downloaded from an open source online such as kaggle or FRED or any other repository site.
 
 ### Tools Used
-```
 - Microsoft Excel 
     1. For Data Cleaning [Download Here](https://www.microsoft.com)
     2. For Data Analysis
@@ -21,6 +20,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 - GitHub for Portifolio Building
 
 ### Data Cleaning and Preparations
+
 In the initial phase of the data cleaning and preparations, we perform the following actions;
 1. Data Loading and Inspection
 2. Handling missing variables
@@ -33,6 +33,7 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - What are the products on peak sales?
 
   ### Data Analysis
+
   This is where we include some basic lines of code or queries or even som of the DAX expressions used during analysis;
 
   ```SQL
