@@ -10,7 +10,7 @@ The primary source of Data used here is Data Sale.csv and this is an open source
 
 ### Tools Used
 - Microsoft Excel 
-    1. For Data Cleaning
+    1. For Data Cleaning [Download Here](https://www.microsoft.com)
     2. For Data Analysis
     3. For Data Visualization
 - SQL - Structured Query language for Quering of Data
